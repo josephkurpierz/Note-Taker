@@ -20,6 +20,7 @@
 
   ## Usage
   [github repository](https://github.com/josephkurpierz/Note-Taker)
+  [heroku deployment](https://lit-falls-95371.herokuapp.com/)
 
   Clicking on the '+' button will allow a new note to be written. once saved, the note will be stored on the left side of the page until user decides to delete it by clicking on the trash can.
 
