@@ -14,7 +14,7 @@ function read() {
 
 //write json object to db.json
 function write(note) {
-  return writeFileAsync("db/db.json", JSON.stringify(note));
+  return writeFileAsync("db/db.json", JSON.stringify(note,null,2));
 }
 
 function getNotes() {
@@ -34,15 +34,7 @@ function createNote(info){
     .then(() => newNote);
 };
 
-// function deleteNote(id){
-//   getNotes()
-//     .then((data) => JSON.parse(data))
-//     .then((json) => {
-//       const result = json.filter((id)=>id!==)
-//     })
 
-
-// }
 
 module.exports = {
   createNote,

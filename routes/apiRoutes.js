@@ -24,7 +24,7 @@ router.delete("/notes/:id", (req, res) => {
       const results = notes.filter((notes) => notes.id !== deleteId);
       write(results);
     });
-
+res.json(`deleted note ${deleteId}`)
 });
 
 module.exports = router;
