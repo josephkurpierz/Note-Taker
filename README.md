@@ -14,12 +14,15 @@
   
   ## Description
   a simple note taking app where you can add notes to a list, review the notes you have taken, and deletethem once finished.
+  
+  ![landing Page](./public/assets/images/landing-page.PNG)
 
   ## Installation
   Install node.js, express.js
 
   ## Usage
   [github repository](https://github.com/josephkurpierz/Note-Taker)
+
   [heroku deployment](https://lit-falls-95371.herokuapp.com/)
 
   Clicking on the '+' button will allow a new note to be written. once saved, the note will be stored on the left side of the page until user decides to delete it by clicking on the trash can.
