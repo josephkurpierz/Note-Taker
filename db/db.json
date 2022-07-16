@@ -1,1 +1,12 @@
-[{"title":"dfh","text":"shsdh","id":"378a80a2-a0df-4b4b-82b1-23c4ffb7f0e8"},{"title":"fdg","text":"fadg","id":"ef86eb6c-cd0d-4890-b916-fd1a8e183629"},{"title":"vcccc","text":"cccccc","id":"4b6a3589-33a6-4236-bdc6-5d599bb05ebd"},{"title":"dfagg","text":"asdgasg","id":"8276e6b2-719d-4414-b3d4-20b289b26679"},{"title":"sgfasg","text":"gggg","id":"fdf2bfb1-9313-43c2-8baa-9e66a7e675e4"}]
+[
+  {
+    "title": "Shopping list",
+    "text": "eggs\nbacon\nbread\n",
+    "id": "ecce26fa-2d97-42c4-8876-5c26669221b1"
+  },
+  {
+    "title": "chores",
+    "text": "sweep\nlaundry\ngrocery shopping\n",
+    "id": "6930f311-6692-412f-9511-4488e6b1bd68"
+  }
+]
