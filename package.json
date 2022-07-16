@@ -4,21 +4,12 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/josephkurpierz/Note-Taker.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/josephkurpierz/Note-Taker/issues"
-  },
-  "homepage": "https://github.com/josephkurpierz/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.16.4",
     "uuid": "^8.3.2"
   }
 }
